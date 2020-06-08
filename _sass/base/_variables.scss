@@ -31,7 +31,7 @@ $white: #fff;
 $turquoise: #1abc9c;	// Turqoise
 $green: #27ae60;	  	// Nephritis
 $red: #91171F;				// Belize Hole
-$purple: #8e44ad;			// Wisteria
+$black: #0000;			// Wisteria
 $orange: #d35400;			// Pumpkin
 $red:	#c0392b;				// Pomegranate
 $gray: #7f8c8d;				// Asbestos
@@ -41,8 +41,8 @@ $bc-red: #bc0000;
 // Font Colors
 $base-background-color: #fff;
 $base-font-color: $dark-gray;
-$action-color: $red;
-$highlight-color: tint($action-color, 33%);
+$action-color: $black;
+$highlight-color: $action-color;
 
 // Border
 $base-border-color: $light-gray;
