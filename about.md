@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: What is a Gautam Ajay
 description: Nikhita Raghunath is a software developer who loves distributed systems and open source.
 permalink: /about/
 ---
