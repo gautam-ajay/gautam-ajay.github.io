@@ -6,7 +6,6 @@ layout: default
 <div class="site-header-container" style = "background-color: black;  border-top: 5px solid #50c9c3;">
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
     <header class="site-header">
-      <h1 class="title">{{ site.title }}</h1>
       {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
     </header>
   </div>
@@ -48,35 +47,34 @@ layout: default
       <a class="newer-posts" href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/">
         <span class="fa-stack fa-lg">
           <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+          <i class="fa fa-angle-double-left fa-stack-2x fa-inverse"></i>
         </span>
       </a>
       {% else %}
       <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">
         <span class="fa-stack fa-lg">
           <i class="fa fa-square fa-stack-2x"></i>
-          <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+          <i class="fa fa-angle-double-left fa-stack-2x fa-inverse"></i>
         </span>
       </a>
       {% endif %}
     {% else %}
     <span class="fa-stack fa-lg">
       <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-left fa-stack-1x fa-inverse"></i>
+      <i class="fa fa-angle-double-left fa-stack-2x fa-inverse"></i>
     </span>
     {% endif %}
-    <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
     <a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">
       <span class="fa-stack fa-lg">
         <i class="fa fa-square fa-stack-2x"></i>
-        <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+        <i class="fa fa-angle-double-right fa-stack-2x fa-inverse"></i>
       </span>
     </a>
     {% else %}
     <span class="fa-stack fa-lg">
       <i class="fa fa-square fa-stack-2x"></i>
-      <i class="fa fa-angle-double-right fa-stack-1x fa-inverse"></i>
+      <i class="fa fa-angle-double-right fa-stack-2x fa-inverse"></i>
     </span>
     {% endif %}
   </p>

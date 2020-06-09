@@ -5,11 +5,9 @@ name: Gautam Ajay
 subtitle: Some things just need to be said
 email: gautam.ajay@gmail.com
 description: >
-  A personal website to look inside me brain
+A website with a mind of its own
 baseurl: ""
 url: "https://www.nikhita.dev"
-twitter_username: TheNikhita
-github_username:  nikhita
 disqus_baseurl: "https://gautam-ajay.github.io/"
 disqus_shortname: https-nikinath-github-io
 permalink: :title
