@@ -6,7 +6,6 @@ subtitle: Some things just need to be said
 email: gautam.ajay@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
 A website with a mind of its own
-
 baseurl: ""
 url: "https://www.nikhita.dev"
 disqus_baseurl: "https://gautam-ajay.github.io/"
