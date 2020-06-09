@@ -1,14 +1,14 @@
 ---
 layout: page
 title: What is a Gautam Ajay
-description: Nikhita Raghunath is a software developer who loves distributed systems and open source.
+description: Gautam Ajay is both a person and the identity of this website. The two may or may not be associated. 
 permalink: /about/
 ---
 <br>
 
  <img src="{{site.avatar}}" class="avatar-round"/>
 
-Hey there! I am a Gautam Ajay representing one Gautam Ajay.
+I am a Gautam Ajay representing one Gautam Ajay.
 
 Does a site have its own identity? It is if its owner believes in site rights. Quirky sells on the internet.
 
