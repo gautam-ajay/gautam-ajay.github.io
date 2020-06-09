@@ -7,6 +7,9 @@ permalink: /about/
 <br>
 
  <img src="{{site.avatar}}" class="avatar-round"/>
+ </br>
+</br>
+
 
 I am a Gautam Ajay representing one Gautam Ajay.
 
@@ -16,4 +19,7 @@ Gautam Ajay is an <strike>accommplished</strike> marketer with <strike>many</str
 
 In his spare time, he likes to [activity 1], [activity2] and occasionally [activity3]
 
-I'd like to think that I have something interesting to add to the world but it is far more likely that I simply need a hobby during quarantine to keep me occupied. 
+I'd like to think that I have something interesting to add to the world but it is far more likely that I simply need a hobby during quarantine to keep me occupied.
+</br>
+</br>
+</br>
