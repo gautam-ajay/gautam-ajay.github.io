@@ -408,7 +408,8 @@ pre code.hljs {
 	border-top: 3pt solid black;
 	padding: 1em 1em 2em 1em;
 	background-color: white;
-	color: $white;
+	text-align: center;
+	color: black;
 	a {
 	  color: $link-color;
 	  &:active,
