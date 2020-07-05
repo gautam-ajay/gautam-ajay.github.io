@@ -42,6 +42,7 @@ exclude:
 # Collections
 collections:
   - talks
+  - food
 
 #
 # Social settings are used in two places:
