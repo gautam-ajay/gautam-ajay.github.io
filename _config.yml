@@ -4,7 +4,7 @@ title: Gautam Ajay
 name: Gautam Ajay
 subtitle: A compilation of my ideas and beliefs and interests and runons
 email: gautam.ajay@gmail.com
-description: platform to share
+description: a platform to share
 baseurl: ""
 url: ""
 disqus_baseurl: "https://gautam-ajay.github.io/"
@@ -60,19 +60,6 @@ collections:
 #     share: true                           # Include in the "Share" section of posts
 
 social:
-  - name: Twitter
-    icon: twitter
-    username: TheNikhita
-    url: https://twitter.com/TheNikhita
-    desc: Follow me on Twitter
-    share: true
-
-  - name: Quora
-    icon: quora
-    username: NikhitaRaghunath
-    url:
-    desc: Follow me on Quora
-    share: true
 
   - name: GitHub
     icon: github

@@ -404,7 +404,7 @@ pre code.hljs {
 *	Footer
 */
 .site-footer {
-	$link-color: $white;
+	$link-color: $black;
 	padding: 1em 1em 2em 1em;
 	background-color: white;
 	text-align: center !important;
@@ -504,4 +504,10 @@ pre code.hljs {
 	float: left;
 	margin: 1em 0;
 	text-align: right;
+}
+
+a:hover
+{
+	text-decoration: none !important;
+	color: #63A088;
 }
