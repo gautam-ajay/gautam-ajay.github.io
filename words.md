@@ -7,7 +7,7 @@ permalink: /words/
 <div align="center"> Just some ideas I wanted to share </div>
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.categories[words] %}
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}

@@ -8,7 +8,7 @@ permalink: /food/
 
 
 <ul>
-{% for post in site.categories.food %}
+{% for category in site.categories.food %}
   {% for post in site.posts %}
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
