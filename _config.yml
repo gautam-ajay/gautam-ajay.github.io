@@ -2,7 +2,7 @@
 # Site settings
 title: Gautam Ajay
 name: Gautam Ajay
-subtitle: A compilation of my ideas and beliefs and interests and runons
+subtitle: A compilation of my ideas and satire and interests and runons
 email: gautam.ajay@gmail.com
 description: a platform to share
 baseurl: ""
@@ -44,6 +44,10 @@ collections:
   - talks
   - food
   - hello
+
+---
+permalink: /404.html
+---
 
 #
 # Social settings are used in two places:
