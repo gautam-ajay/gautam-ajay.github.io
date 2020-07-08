@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Talks
-permalink: /talks/
+title: Art
+permalink: /art/
 ---
 <br>
 <div align="center"> A list of talks I have presented at conferences and meetups. </div>

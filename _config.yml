@@ -43,7 +43,7 @@ exclude:
 collections:
   - talks
   - food
-  - hello
+  - words
 
 ---
 permalink: /404.html
