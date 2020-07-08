@@ -43,6 +43,7 @@ exclude:
 collections:
   - talks
   - food
+  - hello
 
 #
 # Social settings are used in two places:
