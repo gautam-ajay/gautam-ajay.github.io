@@ -8,7 +8,6 @@ permalink: /food/
 
 
 <ul>
-{% if tag[0] == 'food' %}
   {% for post in site.posts %}
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
@@ -22,7 +21,6 @@ permalink: /food/
     {% endunless %}
     <time>{{ post.date | date:"%d %b" }}</time>&nbsp;&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a><br>
   {% endfor %}
-{% endif %}
 
 </ul>
 
