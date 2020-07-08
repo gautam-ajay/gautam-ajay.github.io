@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paste Sauce
+title: Pasta Sauce
 description: The sauce which you dole onto pasta to forget about your existence
 comments: true
 ---
