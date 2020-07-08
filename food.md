@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Food
-permalink: /food/
+title: Foodie
+permalink: /foodie/
 ---
 <br>
 <div align="center"> A collecton of loose guidelines and techniques make your food taste fucking good.</div>
