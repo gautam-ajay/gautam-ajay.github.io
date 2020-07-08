@@ -7,7 +7,7 @@ permalink: /food/
 <div align="center"> A collecton of loose guidelines and techniques make your food taste fucking good.</div>
 
 <ul>
-  {% for post in site.categories.food %}
+  {% for post in site.category.food %}
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
