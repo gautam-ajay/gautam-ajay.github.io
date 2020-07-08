@@ -33,5 +33,4 @@ permalink: /words/
     </ul>
   {% endfor %}
 {% endfor %}
-
 </ul>
