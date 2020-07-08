@@ -3,7 +3,8 @@ layout: page
 title: Words
 permalink: /words/
 ---
-
+<br>
+<div align="center"> Just some ideas I wanted to share </div>
 
 <ul>
   {% for post in site.posts %}
