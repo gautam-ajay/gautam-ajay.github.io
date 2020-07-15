@@ -41,7 +41,6 @@ exclude:
 
 # Collections
 collections:
-  - talks
   - food
   - words
 
