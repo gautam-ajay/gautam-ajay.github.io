@@ -8,7 +8,8 @@ permalink: /foodie/
 
 
 <ul>
-  {% for post in site.posts %}
+{% for post in site.posts %}
+  {% if post.tags contains 'food' %}
     {% unless post.next %}
       <h3>{{ post.date | date: '%Y' }}</h3>
     {% else %}
@@ -20,7 +21,8 @@ permalink: /foodie/
       {% endif %}
     {% endunless %}
     <time>{{ post.date | date:"%d %b" }}</time>&nbsp;&nbsp;&nbsp;<a href="{{ post.url }}">{{ post.title }}</a><br>
-  {% endfor %}
+  {% endif %}
+{% endfor %}
 
 </ul>
 
