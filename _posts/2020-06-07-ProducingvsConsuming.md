@@ -2,7 +2,7 @@
 layout: post
 title: Producing vs Consuming
 description: My take on a balanced life
-tag: words
+tags: words
 ---
 
 For now, here are our best 256+ articles, along with some commentary about how the articles could work for you.
