@@ -4,7 +4,7 @@ title: Pasta Sauce
 description: The sauce which you dole onto pasta to forget about your existence
 tags: food
 ---
-![I stole this from the hello](../assets/images/tomato_sauce.jpg)
+![I stole this from the googles](../assets/images/tomato_sauce.jpg)
 
 >- 1 large can of San Marzano tomatoes
 >
