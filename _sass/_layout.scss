@@ -517,3 +517,42 @@ a:hover
 	text-decoration: none !important;
 	color: #63A088;
 }
+
+.column {
+  float: left;
+  width: 50%;
+  height:100 vh;
+  padding: none !important;
+
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+     padding: none !important;
+
+  }
+  .div_inside_column
+  {
+
+  }
+
+}
+
+.div_inside_column {
+	color: black;
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:70px;
+	text-align:left;
+	text-shadow: none;
+}

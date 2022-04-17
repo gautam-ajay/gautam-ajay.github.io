@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    
+    <url>
+      <loc>http://localhost:4000/transform-into-a-dog</loc>
+      
+        <lastmod>2020-07-18T00:00:00+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/Meta</loc>
+      
+        <lastmod>2020-07-07T00:00:00+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/what-I-want-in-life</loc>
+      
+        <lastmod>2020-06-07T00:00:00+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/pasta-sauce</loc>
+      
+        <lastmod>2020-06-07T00:00:00+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/ProducingvsConsuming</loc>
+      
+        <lastmod>2020-06-07T00:00:00+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+  
+    
+      
+      <url>
+        <loc>http://localhost:4000/about/</loc>
+        
+          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+        
+        
+          <changefreq>monthly</changefreq>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+      
+    
+  
+    
+      
+      <url>
+        <loc>http://localhost:4000/ideas/</loc>
+        
+          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+        
+        
+          <changefreq>monthly</changefreq>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+      
+    
+  
+    
+      
+      <url>
+        <loc>http://localhost:4000/covers/</loc>
+        
+          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+        
+        
+          <changefreq>monthly</changefreq>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+      
+    
+  
+    
+      
+      <url>
+        <loc>http://localhost:4000/feed-gsoc.xml</loc>
+        
+          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+        
+        
+          <changefreq>monthly</changefreq>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+      
+    
+  
+    
+      
+      <url>
+        <loc>http://localhost:4000/feed.xml</loc>
+        
+          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+        
+        
+          <changefreq>monthly</changefreq>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+      
+    
+  
+    
+      
+      <url>
+        <loc>http://localhost:4000/food/</loc>
+        
+          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+        
+        
+          <changefreq>monthly</changefreq>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+      
+    
+  
+    
+      
+      <url>
+        <loc>http://localhost:4000/illustration/</loc>
+        
+          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+        
+        
+          <changefreq>monthly</changefreq>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+      
+    
+  
+    
+      
+      <url>
+        <loc>http://localhost:4000/</loc>
+        
+          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+        
+        
+          <changefreq>monthly</changefreq>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+      
+    
+  
+    
+      
+      <url>
+        <loc>http://localhost:4000/css/main.css</loc>
+        
+          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+        
+        
+          <changefreq>monthly</changefreq>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+      
+    
+  
+    
+  
+</urlset>

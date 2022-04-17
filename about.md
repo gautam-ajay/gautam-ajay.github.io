@@ -12,13 +12,11 @@ permalink: /about/
 
 I am a Gautam Ajay representing one Gautam Ajay.
 
-Does a site have its own identity? It does because I believe in site rights. As a site, it has been difficult voicing my opinions but I am going to pass the mike
+Does a site have its own identity? It does when the owner believes in site rights.
 
-*gautam enters stage*
+I built this site to better articulate my brain farts into a robust brain shits. I am a jack of all trades and wanted a single platform to express the long list of my interests such as marketing, cooking, music theory, UX design, consumer psychology, mental wellness and  
 
-I am a Marketer currently working at Qualtrics. In my spare time, I like to cook, read, practice yoga, play guitar, meditate and spend time with friends. Just classic human stuff... not breaking the mold here.
-
-I built this site as a vehicle to articulate my brain farts into a robust brain shit. It also allows me to create and own a brand from start to finish. My ideas will . I am not married to any of my ideas. I constantly change my mind so shoot me a note if you want to deliberate on any topic. 
+I am not married to any of my ideas and I constantly change my mind. Shoot me a note if you want to deliberate on any topic or if you simply want to say hi 👋 
 
 
 Here is an evolving list of my likes and dislikes:
@@ -29,16 +27,20 @@ Here is an evolving list of my likes and dislikes:
 | Marketing technology| Kevin James | 
 |Community S1-3  | Community S4-6         | 
 | Rocky Racoon |  duckface | 
-| Massages    | Veal farming| 
+| The concept of Hobbies | Veal farming| 
 | Butter Pecan ice cream  | Extreme, rigid opinons | 
 | Hannibal Burress Standup | For profit universities| 
 | Mindfulness | Reality TV | 
 | A restful shivasana | Face tattoos | 
 | Strong Eye Contact | Using people as a means to an end | 
-| East coast culture | West coast culture | 
+| West coast culture | East coast culture | 
 | inconsistent Capitalization | Designer dogs| 
+| Sunshine | Seattle Winters| 
+| Resistance bands | | 
 
-*gautam exits stage*
+
+
+
 
 
 

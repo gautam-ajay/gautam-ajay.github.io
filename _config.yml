@@ -12,8 +12,9 @@ disqus_shortname: https://gautam-ajay.github.io/
 permalink: :title
 cover: "/assets/header_image.jpg"
 logo: "/assets/nr-logo.jpg"
-avatar: "/assets/headshot.jpg"
+avatar: "/assets/rotating_head.gif"
 ga_tracking_id: ""
+
 
 # Build settings
 markdown: kramdown
@@ -30,7 +31,7 @@ defaults:
 
 
 # External gems
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jemoji
@@ -43,6 +44,8 @@ exclude:
 collections:
   - food
   - words
+  - galleries
+
 
 ---
 permalink: /404.html

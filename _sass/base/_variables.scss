@@ -1,12 +1,10 @@
 // Google Fonts
 
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,600;0,800;1,100;1,200;1,300;1,400;1,600;1,800&display=swap');
 // Typography
-$base-font-family: 'Libre Baskerville', monospace; // $helvetica;
-$heading-font-family: 'Abril Fatface', sans-serif; // $base-font-family;
+$base-font-family: 'Poppins';
+$heading-font-family: 'Poppins';
 
 // Font Sizes
 $base-font-size: 17px;
@@ -30,6 +28,8 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
+$primary-color: #63A088;
+$complimentary-color: black;
 $dark-gray: #333;
 $medium-gray: #999;
 $light-gray: #ddd;
@@ -51,6 +51,9 @@ $base-font-color: $black;
 $action-color: $black;
 $highlight-color: $action-color;
 
+
+
+
 // Border
 $base-border-color: $light-gray;
 $base-border: 1px solid $base-border-color;
@@ -58,3 +61,49 @@ $base-border: 1px solid $base-border-color;
 // Forms
 $form-box-shadow: inset 0 1px 3px rgba(#000, 0.06);
 $form-box-shadow-focus: $form-box-shadow, 0 0 5px adjust-color($action-color, $lightness: -5%, $alpha: -0.3);
+
+
+//
+
+
+// Links
+$link-color: $primary-color;
+$link-hover-color: lighten($link-color, 15%);
+$link-visited-color: lighten($link-color, 25%);
+
+
+
+// Header Settings
+$header-color: $primary-color;
+$header-link-color: $complimentary-color;
+$header-link-hover-color: $complimentary-color;
+$header-link-visted-color: $link-color;
+$header-active-link-color: #6f77c2;
+
+
+
+
+// Socials Navbar Settings
+$socials-font-color: $complimentary-color;
+$socials-font-size: 1.5em;
+
+// Gallery Lightbox Pop-Up
+$lightbox-background-color: rgba(0, 0, 0, 0.95);
+$lightbox-border-color: $complimentary-color;
+$lightbox-description-background-color: rgba(254, 254, 254, 0.8);
+$lightbox-description-text-color: black;
+$lightbox-caption-text-color: $complimentary-color;
+$lightbox-navigation-color: $complimentary-color;
+
+
+// Utility
+$spacing-unit: 30px;
+
+// Layout Settings
+$header-margin: 2rem;
+
+// Buttons
+$button-color: #6f77c2;
+$button-hover: #494d7a;
+$button-text-color: #fff;
+

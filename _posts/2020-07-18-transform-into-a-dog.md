@@ -15,27 +15,29 @@ My own transformation has been rocky. I was brought into  shelter multiple times
 
 Alright, enough bullshit. Here are the steps:
 
-Step 1: Dissolve your ego
+<h2>Step 1: Dissolve your ego</h2>
 This is very easy. Simply let go of the sense of identity that is prevents you from being your most honest self. You will now be free to chase rabbits into the bush, 
 
-Step 2: Sniff everything with unabashed curiosity
+<h2>Step 2: Sniff everything with unabashed curiosity</h2>
 As your start transitioning, your sense of smell will heighten and 
 
-Step 3: Remove your emotional filter
+<h2>Step 3: Remove your emotional filter</h2>
 As a human, you are likely holding back in every exchange with other. This one takes a bit getting used to so start slow. You can start with wagging your tail with fervor when excited. The intensity corresponds to how much you care about that person. Eventually you will have to transition to licking them in the face
 
 When you meet your friends and loved ones, just lick them in the face. If they are still human, they might respond negatively but dont
 
-Step 4: Let go of stories
+<h2>Step 4: Let go of stories</h2>
 The past is the past. Let go of it.
 
-Step 5: Piss on every wall, fire hydrant and tree
+<h2>Step 5: Piss on every wall, fire hydrant and tree</h2>
 It is important that your neibhors know that this is your territory. Make sure to gulp plenty of water before leaving the house and conserve your urine to make it last around the block. If you're single, this is guaranteed to attract women so dont forget this step.  
 
 
 Here are some success stories:
 
 This is George. We worked togeather at Deloitte a few years ago on the mergers and acquisitions team. George had a terrible marriage and a lackluster career trajectory under horrible leadership. As soon as he transformed, his wife divorced him and adopted him as a legal guardian. He also quit his job and spends most of his time retrieving tennis balls and swimming in the lake by their home in Dallas. Life is good for George. 
+
+![george](../assets/images/george.jpg)
 
 
 This is Rachel. Rachel developed crippling anxiety from an abusive childhood. This has left her scarred and has affected 
