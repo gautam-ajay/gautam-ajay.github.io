@@ -1,0 +1,5 @@
+# Read-only instance
+reddit_read_only = praw.Reddit(client_id="marketingmonkey00",		 # your client id
+							client_secret="2rT3PbsWcDVL4r9eW2T1Ywc7dmSkng",	 # your client secret
+							user_agent="Gautam Ajay")	 # your user agent
+

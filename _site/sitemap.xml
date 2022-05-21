@@ -3,6 +3,36 @@
   
     
     <url>
+      <loc>http://localhost:4000/browniesvsbrocolli</loc>
+      
+        <lastmod>2022-02-07T00:00:00+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/DetoxOS</loc>
+      
+        <lastmod>2022-02-07T00:00:00+05:30</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://localhost:4000/transform-into-a-dog</loc>
       
         <lastmod>2020-07-18T00:00:00+05:30</lastmod>
@@ -82,7 +112,7 @@
       <url>
         <loc>http://localhost:4000/about/</loc>
         
-          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+          <lastmod>2022-04-23T10:18:20+05:30</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -99,7 +129,7 @@
       <url>
         <loc>http://localhost:4000/ideas/</loc>
         
-          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+          <lastmod>2022-04-23T10:18:20+05:30</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -116,7 +146,7 @@
       <url>
         <loc>http://localhost:4000/covers/</loc>
         
-          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+          <lastmod>2022-04-23T10:18:20+05:30</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -133,7 +163,7 @@
       <url>
         <loc>http://localhost:4000/feed-gsoc.xml</loc>
         
-          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+          <lastmod>2022-04-23T10:18:20+05:30</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -150,7 +180,7 @@
       <url>
         <loc>http://localhost:4000/feed.xml</loc>
         
-          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+          <lastmod>2022-04-23T10:18:20+05:30</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -167,7 +197,7 @@
       <url>
         <loc>http://localhost:4000/food/</loc>
         
-          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+          <lastmod>2022-04-23T10:18:20+05:30</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -184,7 +214,7 @@
       <url>
         <loc>http://localhost:4000/illustration/</loc>
         
-          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+          <lastmod>2022-04-23T10:18:20+05:30</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -201,7 +231,7 @@
       <url>
         <loc>http://localhost:4000/</loc>
         
-          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+          <lastmod>2022-04-23T10:18:20+05:30</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -218,7 +248,7 @@
       <url>
         <loc>http://localhost:4000/css/main.css</loc>
         
-          <lastmod>2022-04-17T12:30:17+05:30</lastmod>
+          <lastmod>2022-04-23T10:18:20+05:30</lastmod>
         
         
           <changefreq>monthly</changefreq>
@@ -230,6 +260,23 @@
       
     
   
+    
+  
+    
+      
+      <url>
+        <loc>http://localhost:4000/page2/</loc>
+        
+          <lastmod>2022-04-23T10:18:20+05:30</lastmod>
+        
+        
+          <changefreq>monthly</changefreq>
+        
+        
+          <priority>0.3</priority>
+        
+      </url>
+      
     
   
 </urlset>
