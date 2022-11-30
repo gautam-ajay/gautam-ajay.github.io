@@ -44,7 +44,6 @@ exclude:
 collections:
   - food
   - words
-  - galleries
 
 
 ---
@@ -77,7 +76,7 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Nikhita Raghunath
+    username: Gautam Ajay
     url: https://in.linkedin.com/in/nikinath
     desc: Connect with me on LinkedIn
     share: true
@@ -177,6 +176,4 @@ protocols:
 
     twitter_image: "/assets/nr-logo.jpg"
 
-    os_repo: "https://github.com/nikhita/nikhita.github.io"
-    os_rcs_type: "git"
-    os_src: "git@github.com:nikhita.github.io.git"
+    
