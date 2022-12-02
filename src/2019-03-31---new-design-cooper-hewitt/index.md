@@ -40,27 +40,6 @@ It's so simple to prototype with and refine styles. My previous design was so ol
 
 It's so fast to prototype and refine code when it's all colocated. Just look at how nice this media query syntax is here:
 
-```jsx
-<h1
-  css={{
-    width: `80%`,
-    color: whitish,
-    fontWeight: 600,
-    fontSize: scale(5 / 5).fontSize,
-    lineHeight: 1.1,
-    "@media (min-width: 420px)": {
-      fontSize: scale(7 / 5).fontSize,
-    },
-    "@media (min-width: 768px)": {
-      fontSize: scale(10 / 5).fontSize,
-    },
-  }}
->
-  <span css={{ fontWeight: 400 }}>Welcome to the</span> Personal
-  Internet Domicile{` `}
-  <span css={{ fontWeight: 400 }}>of Kyle Mathews</span>
-</h1>
-```
 
 ### Typography.js
 
